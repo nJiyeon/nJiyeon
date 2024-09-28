@@ -1,3 +1,6 @@
+
+<div align="center">
+
 # 👋 🍍 안녕 나는 지연 🍍👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nJiyeon)](https://github.com/깃허브아이디/github-readme-stats)
