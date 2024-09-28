@@ -6,7 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nJiyeon)](https://github.com/깃허브아이디/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nJiyeon)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🚀 Skills 🚀
+## 🚀 Studying 🚀
 ![android](https://github.com/user-attachments/assets/9e5da9d6-1f9f-4d0b-adcb-bcf4830f3d00)
 
 ![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
